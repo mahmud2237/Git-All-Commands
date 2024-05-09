@@ -1,2 +1,0 @@
-Hey this txt file type is in the git ignore
-This file is now untracked
