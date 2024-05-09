@@ -1,2 +1,8 @@
+#ignore filetype
 .txt
+
+
+#ignore the whole folder [ * indicates all files in gitignore]
+AutoGen/*
+
 

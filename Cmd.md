@@ -25,7 +25,7 @@ echo $null >> [new_filename] => it will create a new file in windows powershell
 
 cat [file_name] => to see inside the file
 
-nano [file_name] => to edit the file
+nano [file_name] => to edit the file [In Nano command we can use: (E)dit, (R)ecover, (Q)uit, (A)bort]
 
 git rm -f [file_name] => forcefully remove or delete the file [-f is a flag]
 
@@ -65,4 +65,4 @@ git restore --staged [file_name] => that will untrack the track file
 
 
 
-In Nano command we can use: (E)dit, (R)ecover, (Q)uit, (A)bort
+
