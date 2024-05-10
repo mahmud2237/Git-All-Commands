@@ -1,6 +1,8 @@
 #ignore filetype
 .txt
 
+#ignore selected filetype by name
+image.jpg
 
 #ignore the whole folder [ * indicates all files in gitignore]
 AutoGen/*
